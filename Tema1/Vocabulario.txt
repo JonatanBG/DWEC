@@ -1,0 +1,8 @@
+Website
+Programming language
+Code
+Variables
+Data Types
+Browser -> Render
+Instructions = Statements
+Debug
